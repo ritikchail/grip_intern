@@ -1,5 +1,5 @@
 # grip_intern
-intern_tasks
+intern_tasks for IoT and computer vision
 
 # task 1
 Character detector which extracts printed or handwritten text from an 
